@@ -4,11 +4,11 @@
 #
 # Author: Mike McCauley (mikem@airspayce.com)
 # Copyright (C) 2011 Mike McCauley
-# $Id: Makefile,v 1.1 2013/01/14 06:49:29 mikem Exp mikem $
+# $Id: Makefile,v 1.2 2014/03/26 01:09:36 mikem Exp mikem $
 
 PROJNAME = VirtualWire
 # Dont forget to also change the version at the top of RF22.h:
-DISTFILE = $(PROJNAME)-1.15.zip
+DISTFILE = $(PROJNAME)-1.27.zip
 
 all:	doxygen dist upload
 
@@ -23,4 +23,4 @@ dist:
 
 upload:
 	rsync -avz $(DISTFILE) doc/ www.airspayce.com:public_html/mikem/arduino/$(PROJNAME)
-	rsync -avz ../../doc/VirtualWire.pdf doc/ www.airspayce.com:public_html/mikem/arduino/
+	rsync -avz ../../doc/VirtualWire.pdf www.airspayce.com:public_html/mikem/arduino/
