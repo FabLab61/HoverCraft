@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="80mm" height="80mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8000 8000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:300}
+    .str5 {stroke:black;stroke-width:400}
+    .str4 {stroke:black;stroke-width:500}
+    .str3 {stroke:#2B2A29;stroke-width:20}
+    .str2 {stroke:black;stroke-width:20}
+    .str1 {stroke:white;stroke-width:20}
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil1 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_368307991824">
+   <circle class="fil0 str0" cx="4159" cy="4002" r="3325"/>
+   <line class="fil0 str1" x1="4336" y1="3384" x2="4830" y2= "1091" />
+   <line class="fil0 str1" x1="4098" y1="4725" x2="3586" y2= "7089" />
+   <polygon class="fil0 str2" points="1761,2499 1779,2076 6595,5957 6577,5498 5501,4069 4256,4064 2943,4034 "/>
+   <path class="fil1 str3" d="M1779 2076l-18 423 1182 1535 881 20c2,-97 36,-185 92,-256l-2137 -1722z"/>
+   <path class="fil1 str3" d="M4688 4065c0,105 -38,200 -100,275l2007 1617 -18 -459 -1076 -1429 -813 -4z"/>
+   <path class="fil0 str4" d="M2162 2109c0,0 34,-44 133,-131 21,-18 37,-33 50,-44 11,-10 19,-17 26,-23 24,-21 24,-21 24,-21 0,0 136,-110 201,-154 65,-44 188,-123 257,-159 68,-37 153,-84 261,-127 107,-42 161,-66 263,-96 102,-29 71,-22 136,-38 66,-16 127,-31 193,-35 66,-5 106,-22 190,-22 84,0 97,-5 174,2"/>
+   <path class="fil0 str4" d="M6213 5880c0,0 -35,44 -135,130 -21,18 -37,32 -50,43 -11,10 -20,17 -27,23 -24,20 -24,20 -24,20 0,0 -137,109 -202,152 -66,43 -190,121 -259,157 -69,35 -154,81 -262,123 -109,42 -163,65 -265,93 -102,28 -71,22 -136,37 -66,15 -127,30 -194,33 -66,4 -106,21 -190,20 -83,-1 -97,4 -174,-4"/>
+   <ellipse class="fil2 str1" cx="4280" cy="4074" rx="250" ry="254"/>
+   <circle class="fil0 str0" cx="4256" cy="4064" r="331"/>
+   <path class="fil0 str5" d="M2681 2559c0,0 84,-89 157,-149 74,-60 134,-114 235,-175 101,-62 134,-86 227,-129 94,-43 97,-50 196,-84 99,-34 150,-57 268,-81 119,-24 147,-41 239,-41"/>
+   <path class="fil0 str5" d="M5668 5429c0,0 -85,87 -160,146 -74,59 -136,111 -238,171 -102,60 -135,83 -230,124 -94,41 -97,48 -197,80 -100,33 -151,54 -270,76 -119,21 -148,38 -240,36"/>
+  </g>
+  <circle class="fil0 str3" cx="4159" cy="4002" r="3767"/>
+ </g>
+</svg>
