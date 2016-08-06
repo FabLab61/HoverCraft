@@ -6,3 +6,6 @@ Victor Kostyuk, Evgeniy Kondakov, Valeria Dmitrieva, Victor Petrenko.
 
 # Curators
 Vadim Gorbatenko & Vladislav Schvager
+
+# Instructables
+http://www.instructables.com/id/HoverCraft-Fablab61
