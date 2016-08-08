@@ -1,8 +1,5 @@
-# HoverCraft
-Project of 3rd summer school of FabLab61 (http://school.fablab61.ru)
+Receiver.ino - sketch for Arduino on Hover
 
-# Team
-Victor Kostyuk, Evgeniy Kondakov, Valeria Dmitrieva, Victor Petrenko.
+Transmitter.ino - sketch for Arduino on Remote Controller
 
-# Curators
-Vadim Gorbatenko & Vladislav Schvager
+/lib - libraries for sketches
